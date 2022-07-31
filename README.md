@@ -1,2 +1,2 @@
-# app-merchant-java
-app-merchant-java
+# java-app-merchant
+java-app-merchant
