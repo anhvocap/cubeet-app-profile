@@ -1,8 +1,8 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.13/MicrosoftTeams.schema.json",
   "manifestVersion": "1.13",
-  "id": "43bfe6b1-cd18-48f9-a10d-d2a6c37ebf42",
-  "version": "0.0.1",
+  "id": "91929420-d035-11ed-a701-5bae50b6feb7",
+  "version": "1.0.5",
   "packageName": "com.cubeet.teamapptab",
   "developer": {
     "name": "voduyanh",
