@@ -1,15 +1,14 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+# do not include the node modules in Git
+node_modules
+
+# do not include the package in Git
+package
+
+# do not include the local environment files
+.env
+
+# do not include the Connectors Json Db file
+connectors.json
+
+# do not include dist files
+dist
