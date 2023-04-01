@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "voduyanh"
+    },
+    "libraryName": "teamAppTab",
+    "generator-version": "4.1.0"
+  }
+}
