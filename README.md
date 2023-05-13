@@ -1,4 +1,4 @@
-# team-app-tab - Microsoft Teams App
+# cubeet-team-app-tab - Microsoft Teams App
 
 Generate a Microsoft Teams application.
 
