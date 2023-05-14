@@ -1,4 +1,4 @@
-# team-app-tab - Microsoft Teams App
+# Microsoft Teams App Tab
 
 Generate a Microsoft Teams application.
 
