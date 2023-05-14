@@ -6,7 +6,8 @@ import * as React from "react";
 export const render = (type: any, element: HTMLElement) => {
     ReactDOM.render(React.createElement(type, {}), element);
 };
-// Automatically added for the tabSsoTab tab
-export * from "./tabSsoTab/TabSsoTab";
-export * from "./tabSsoTab/TabSsoTabConfig";
-export * from "./tabSsoTab/TabSsoTabRemove";
+
+// Automatically added for the ssoTab tab
+export * from "./ssoTab/SsoTab";
+export * from "./ssoTab/SsoTabConfig";
+export * from "./ssoTab/SsoTabRemove";
