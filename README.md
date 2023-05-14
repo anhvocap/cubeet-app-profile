@@ -1,4 +1,4 @@
-# cubeet-team-app-workforce - Microsoft Teams App
+# Microsoft Teams App
 
 Generate a Microsoft Teams application.
 
